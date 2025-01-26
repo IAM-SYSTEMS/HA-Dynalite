@@ -1,4 +1,4 @@
-Hi ZAV,
+Hi Ziv,
 
 I understand you are responsible for the Philips Dynalite integration in home assistant.
 Sorry for the strange method of contact, this was the only thing I could think of to reach out to you.
